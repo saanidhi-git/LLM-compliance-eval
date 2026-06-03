@@ -1,0 +1,10 @@
+# Python Bytecode cache locks
+__pycache__/
+*.pyc
+
+# Local configuration values
+.env
+.secrets
+
+# Jupyter system caching layers
+.ipynb_checkpoints/
